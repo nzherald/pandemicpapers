@@ -1,0 +1,19 @@
+E Construction es 1.1
+L Rental, Hiring and Real Estate Sevics I NS 0.9
+M Professional, Scientific and Technical Services Ss 0 5
+A Agriculture, Forestry and Fishing I ns 6 >
+H Accommodation and Food Sevics ITT 0.3
+CManufacturing 0.7
+GRetail Trade ET 0.7
+QuHealth Care and Social Assistance TT 0.5
+P Education and Training EE 0.5
+SOther Services ET 0.5
+FWholesale Trade 0.5
+N Administrative and Support Services ' 0.3
+K Financial and Insurance Services — 0.3
+I Transport, Postal and Warehousing QT 0.3
+R Arts and Recreation Services EN 0.2
+J Information Media and Telecommunications [Ml 0.1
+O Public Administration and Safety [Ml 0.1
+D Electricity, Gas, Water and Waste Services [J 0.0
+BMining | 0.0

@@ -1,0 +1,22 @@
+Description
+
+* This slidepack shows a sample of the output pulled out of the LBD
+
+* It contains information on the number of businesses and number of employees in
+particular subsectors of Agriculture, Forestry and Fishing and Manufacturing sectors
+
+* These sectors were selected as they are the key sectors producing merchandise exports
+
+* Information is for January 2018
+
+* Information has been extracted at the 3-digit ANZSIC level by regional council
+
+* Information presented is for ANZSIC 2-digit sectors
+
+* Can do these for any ANZSIC 2 or 3 digit sector in AFF or Manufacturing (firm-size
+distributions 2-digit only)
+
+* Industries presented are among the top 10 employing industries across the nation within
+Agriculture, Forestry and Fishing and Manufacturing
+
+* Results showing the proportion of businesses can also be produced

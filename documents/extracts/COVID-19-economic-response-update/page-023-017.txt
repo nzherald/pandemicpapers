@@ -1,0 +1,20 @@
+Caveats
+
+* These results are based on administrative information contained in StatsNZ’s IDI
+and LBD. These are not official statistics
+
+* Confidentiality requirements mean that information for some large employers in
+certain sectors and regions is suppressed. The numbers presented may therefore
+be an overestimate
+
+¢ Anemployee is defined as someone who appears on a firm’s monthly payroll
+returns earnings wages and salary, but does not have an ownership stake in the
+business
+
+* Working proprietors, people who have an ownership stake in the business they
+work at, have not been included
+
+* There are a large number of “zero-employee” firms that will have a working
+proprietor associated with them
+
+* The numbers presented are preliminary and should be treated with caution

@@ -1,0 +1,48 @@
+Data up to 18 March 2020 from Johns Hopkins University (https://aithub.com/CSSEGISandData/COVID-19)
+Number of new cases per day — Selected case studies
+800
+700
+600
+g NZ: day 22
+8 500 s day WSingapore
+> 39 total cases eer
+@ Australia
+«= 400
+oe United Kingdom
+a
+€ 300 New Zealand
+5
+= Hong Kong
+200
+Taiwan
+100 |
+oe ee ee OI El Do
+1 6 11 16 21 26 31 36 41 46 51 56
+Days since first case in country
+Number of new cases per day — New Zealand vs United
+Kingdom (zoomed into 100 cases)
+100
+90
+80
+2 70
+& NZ: day 22
+s* 39 total cases
+= 50
+2 MUnited Kingdom
+3 40
+€ @ New Zealand
+Ss 30
+Zz
+20
+" | Al
+» ee. ee ih
+oO
+1 3.5 7 9 1113 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47
+Days since first case in country
+Singapore: 313 confirmed cases, 0 deaths Australia: 568 confirmed cases, 6 deaths
+(population 5.8 million) (population 25.5 million)
+Taiwan: 100 confirmed cases, 1 death UK: 2626 confirmed cases, 71 deaths
+(population 23.8 million) (population 67.8 million)
+Hong Kong: 181 confirmed cases, 4 deaths NZ (data to 20 March): 39 confirmed cases,
+(population 7.5 million) 0 deaths
+(population 4.8 million)

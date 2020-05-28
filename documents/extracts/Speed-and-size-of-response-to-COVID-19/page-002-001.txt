@@ -1,0 +1,38 @@
+Measure Metric NZL AUS CAN USA UK FRA GER ITA ESP PRC ROK JPN SIN SWE DEN AUT IND IRL
+Cumulative per 100,000 2,563 2,03435 1,88236 1,642” 80778 906% 2,511 2,9722 2,229 - 1,16873 1,190" 93826 2,68827 22,6488 4829 2,283
+tests >
+per 0.39 0.33 7.18 16.77 31.27 34.17 721 44.09 49.63, 0.3: 0.29 0.12 21.55 7.28 6.13 0.07 22.40
+100,000%2
+1 This chart has been produced by the Ministry of Foreign Affairs and Trade using diplomatic and open source reporting. Best efforts have been made to ensure th is accurate as at Tuesday 28 April 2020.
+2 Travel from non-EU/ European Economic Area member states ceased on 17 March.
+3 Not a meaningful comparison. Restrictions differ by state, province or municipality.
+4 A nation-wide curfew began on 22 March, followed by a lockdown on 23 March for states and territories with confirmed cases.
+5 Direct fiscal measures only. Excludes monetary policy stimulus and government-backed loans. Some countries have also not estimated thisize o} subsidies (UK & Spain), meaning their level of fiscal support is understated.
+© Localised - The six States and two Territories are implementing different policies such as bringing forward school holidays, implementing free scho IIs or closing schools in some regions.
+7 Localised - Ten Provinces and three Territories have mandated closures of educational institutions, with varying dates, which in in@lie with t)¢ term break and therefore not related to COVID-19.
+® The 2020 academic year started in early April with 5 weeks delay. Classes are being offered only through distance learning.
+® National closure of all upper secondary educational institutions and universities. Primary schools remain open.
+10 Primary schools, kindergartens and nurseries re-opened on 15 April.
+1 New restrictions announced on 29 March as part of Australia’s Alert Level 3 settings.
+2 Data provided from Johns Hopkins University & Medicine Coronavirus Resource Center, Maps & Trends httpsy .eduy/map.html. There may be some variation depending on the adopted definition of the country providing the data. For example, many countries, e.g. Australia, report
+‘COVID-19 cases that are confirmed, whereas New Zealand reports both confirmed and probable cases — a bro: teeny.
+38 Data provided from Our World in Data website https://ourworldindata.org/grapher/full-list-cumulative-total- r-thosand?year=2020-04-27&time=2020-03-09..&country=FRA+DEUHRL+SGP+ESP+SWESNZL.
+14 Data is from 26 April.
+35 Data is from 27 April.
+16 Data is from 27 April.
+17 Data is from 26 April.
+18 Data is from 26 April.
+19 Data is from 21 April.
+20 Data is from 19 April.
+21 Data is from 26 April.
+22 Data is from 23 April.
+23 Data is from 27 April.
+24 Data is from 27 April.
+25 Data is from 20 April.
+26 Data is from 19 April.
+27 Data is from 27 April.
+28 Data is from 27 April.
+29 Data is from 27 April.
+30 Data is from 27 April.
+31 Data provided from Johns Hopkins University & Medicine Coronavirus Resource Center, Maps & Trends https://coronavirus.jhu.edu/map.html,
+32 Drawn from John Hopkins University & Medicine Coronavirus Resource Center, Maps & Trends, Mortality Analyses (https://coronavirus.jhu.edu/data/mortality).

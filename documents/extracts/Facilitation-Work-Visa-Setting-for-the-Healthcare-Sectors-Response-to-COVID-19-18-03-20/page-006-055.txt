@@ -1,0 +1,7 @@
+‘ The data only reflects Essential Skills visa holders, where skill band is recorded and is low-skilled.
+also assumes that where a person’s visa expires before they have stayed in New Zealand for three
+they will apply for another lower-skilled ES visa, and does provide their stand-down date were this t
+
+* In addition, 1.8% are on student visas and 0.15% on Working Holiday visas.
+
+2716 19-20 In Confidence

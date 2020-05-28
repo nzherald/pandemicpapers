@@ -1,0 +1,22 @@
+8 Implementation
+8.1 Supporting operational public health measures
+COVID-19 has been designated as a notifiable disease, meaning that Aotearoa/New Zealand’s
+standard notifiable disease system applies. Public Health Units have access via EpiSurv to contact
+and cluster outbreak data for their management of cases. While PHUs are under considerable
+pressure, surveillance information to support the public health response is not a limiting factor in
+the management of cases and clusters.
+8.2 Supporting policy decisions on social distancing measures
+Decisions on de-escalation from COVID-19 Alert Level 4 on a regional or national basis will be
+supported by our core notifiable disease system, in conjunction with the enhanced community
+surveillance of testing from CBAC and other community sources. This system has the capability to
+report cases and rates of cases in geographic and demographic detail.
+8.3 In progress
+The following streams of work are in progress:
+[Workstream | Dat oF completion
+implemented
+practice recruitment
+implementation been implemented until
+comprehensive dashboard is live).
+e Establishment of a validated serological test for SARS- 1-2 months
+[oa Rae
+14

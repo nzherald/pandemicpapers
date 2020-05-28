@@ -1,0 +1,20 @@
+Package: nzhCovid19Docs
+Title: Provides Covid-19 Proactive Release Documents as Text
+Version: 1.0
+Authors@R: 
+    person(given = "Chris",
+           family = "Knox",
+           role = c("aut", "cre"),
+           email = "chris.knox@nzherald.co.nz")
+Description: Covid-19 Proactive Release Documents with extracted text.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+DataVersion: 0.1.2
+Date: 2020-05-28
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

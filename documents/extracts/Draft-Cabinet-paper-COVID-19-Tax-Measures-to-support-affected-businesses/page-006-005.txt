@@ -1,0 +1,61 @@
+Sensitive - Budget
+customer housing rate series and the RBNZ 90 days bank bill rate series,
+respectively.
+
+37. | These formulas should be reviewed as a long-term project on the Government's tax
+policy work programme. We do not recommend a formula change now as the policy
+implications of doing so have not yet been properly considered.
+
+A change in the rate of UOMI under the normal regulatory process
+
+38. The normal UOMI rate-setting process is undertaken on a continuous basis by
+officials. Under this process, the rates of UOMI have to be adjusted whenever either
+of the tracking series for the under- and over-payment rates changes by a certain
+amount. That amount is 100 basis points since the last UOMI review, or 20 basis
+points over a 12-month period.
+
+39. Officials have noted there is a chance that UOMI rates will be updated given the
+current direction of the underlying series that are tracked in the formulas. If the
+Official Cash Rate were to be cut as a monetary policy response to COVID-19
+(expected by some sectors), this would increase the likelihood that either of the
+tracking series will fall by enough to trigger a UOMI rate review.
+
+40. If a rate review were triggered, then the rate of UOMI would be lowered through
+the normal regulatory process. Officials’ current recommendation is to allow this
+process to occur rather than pre-emptively cutting the rate or changing the formula.
+Based on the current floating first mortgage rate, the rate of UOMI would be reduced
+from 8.35% to 7.76%.
+
+Fiscal impacts
+
+UOMI remission
+
+41. There is no direct fiscal cost from the proposal to give the Commissioner of Inland
+Revenue discretion to remit UOMI in response to the COVID-19 outbreak. There
+would be a negative financial implication for the Crown as this policy change would
+result in foregone UOMI revenue. However, as the Government's fiscal forecasts do
+not currently include COVID-19-related interest charges, their remission will have
+no impact on the fiscal position.
+
+42. There are, however, a number of risks associated with this proposal:
+
+42.1 Decreasing the incentive to pay tax when it falls due (in smaller instalments)
+could result in some taxpayers being unable to pay their larger tax bill at a
+later date, which could result in core tax not being recoverable; and
+
+42.2 Taxpayers who would have been subject to UOMI penalties under ordinary
+economic circumstances could also face COVID-19-related stress. Remitting
+UOMI penalties for these taxpayers would have a fiscal cost (albeit
+unquantifiable), as some share of the remitted interest would have related
+to non-COVID-19 drivers.
+
+43. More broadly, there is a risk that remitting UOMI could lead to the deliberate
+underpayment of tax in situations where the tax would have ordinarily been paid in
+full and on time, with delays potentially crossing fiscal years.
+
+44. These risks will impact on the fiscal position if they materialise. We are unable to
+quantify the materiality of the potential impacts.
+
+1R2020/139; T2020/616: Draft Cabinet paper: COVID-19: Tax measures Page 5 of 8
+
+SENSITIVE

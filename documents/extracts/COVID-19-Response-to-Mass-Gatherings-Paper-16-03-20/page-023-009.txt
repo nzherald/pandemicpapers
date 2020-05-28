@@ -1,0 +1,23 @@
+INCONFIDENCE
+Wedding - 90 people, indoors.
+The below example relates to a wedding held in New Zealand, where the attendees are expected to travel from across the country and are likely to number
+approximately 90 people.
+Based on Framework Part A, the event will be cancelled. Framework B would normally be applied if the outcome of framework A is to not cancel the event,
+but as an example, framework B has also been applied to the event.
+Risk assessment Framework Part A
+1. The event is a gathering of: No cancellation needed - less than 100 people
+a. more than 500 in an outdoor setting
+b. more than 100 in an indoor setting
+2. Persons attending the event are coming from regions where there is known transmission of No cancellation needed - all but one attendees are
+COVID-19 (i.e. persons attending from Auckland following a known community outbreak in the | coming from Nelson. The attendee coming from
+region) Auckland should not attend.
+3. Persons attending the event are from demographic groups at greater risk of severe disease, No cancellation needed - no high risk communities
+such as older adults and Maori and Pacific communities
+4. Persons attending the event are members of critical infrastructure roles, such as healthcare No cancellation needed - there are no critical
+workers infrastructures roles
+5. People will be participating in activities that promote transmission (activities that could No cancellation needed - activities don’t promote
+contribute to spread: singing, cheering, close physical contact such as when participating in transmission.
+contact sports, sharing food or beverages, etc.)
+23
+INCONFIDENCE
+8t605jj9dp 2020-04-20 12:37:53

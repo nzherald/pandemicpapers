@@ -1,0 +1,38 @@
+Data up to 18 March 2020 from Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19)
+Number of new cases per day — New Zealand vs Australia
+140
+120
+w 100
+3
+z
+3 a0 NZ: day 22
+e 39 total cases
+s s
+5 60 Australia
+2 New Zealand
+5
+= 40
+20 |
+ptt all oe cathalll
+1 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52
+Days since first case in country
+Number of new cases per day — NZ vs Singapore, Taiwan &
+Hong Kong
+50
+45
+40
+; 35 NZ: day 22
+= 30 39 total cases
+2 WSingapore
+we 25
+ge Hong Kong
+@ 20
+2 Taiwan
+315
+z iNew Zealand
+: | | | |
+5:
+at bdeatiA trade stat l |
+4 6 11 16 21 26 at. 36 41 46 51 56
+Days since first case in country
+Note: United Kingdom data excludes the UK territories of Gibraltar, Channel Islands and Cayman Islands.

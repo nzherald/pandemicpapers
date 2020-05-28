@@ -1,0 +1,256 @@
+TRACE [2020-05-28 12:21:32] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 12:21:32] Processing data
+TRACE [2020-05-28 12:21:32] Reading yaml configuration
+TRACE [2020-05-28 12:21:32] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 12:21:32] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 12:21:55] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 12:21:55] NEWS.md file not found, creating!
+TRACE [2020-05-28 12:21:55] NEWS.md file found, updating!
+TRACE [2020-05-28 12:22:10] Saving to data
+TRACE [2020-05-28 12:22:10] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 12:22:10] Done
+TRACE [2020-05-28 12:22:10] DataPackageR succeeded
+TRACE [2020-05-28 12:22:10] Building documentation
+TRACE [2020-05-28 12:22:11] Building package
+TRACE [2020-05-28 12:22:47] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 12:22:47] Processing data
+TRACE [2020-05-28 12:22:47] Reading yaml configuration
+TRACE [2020-05-28 12:22:47] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 12:22:47] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 12:22:48] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 12:22:48] NEWS.md file found, updating!
+TRACE [2020-05-28 12:22:48] Processed data sets match existing data sets at version 0.1.0
+TRACE [2020-05-28 12:22:48] Saving to data
+TRACE [2020-05-28 12:22:48] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 12:22:48] Done
+TRACE [2020-05-28 12:22:48] DataPackageR succeeded
+TRACE [2020-05-28 12:22:48] Building documentation
+TRACE [2020-05-28 12:22:48] Building package
+TRACE [2020-05-28 12:25:29] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 12:25:29] Processing data
+TRACE [2020-05-28 12:25:29] Reading yaml configuration
+TRACE [2020-05-28 12:25:29] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 12:25:29] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:07:18] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:07:19] NEWS.md file found, updating!
+WARN [2020-05-28 13:07:19] covid_docs has changed.
+TRACE [2020-05-28 13:11:04] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:11:04] Processing data
+TRACE [2020-05-28 13:11:04] Reading yaml configuration
+TRACE [2020-05-28 13:11:04] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:11:04] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:13:16] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:13:16] Processing data
+TRACE [2020-05-28 13:13:16] Reading yaml configuration
+TRACE [2020-05-28 13:13:16] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:13:16] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:16:19] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:16:19] Processing data
+TRACE [2020-05-28 13:16:19] Reading yaml configuration
+TRACE [2020-05-28 13:16:19] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:16:19] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:17:16] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:17:16] NEWS.md file found, updating!
+WARN [2020-05-28 13:17:16] covid_docs has changed.
+WARN [2020-05-28 13:17:16] covid_docs has changed.
+WARN [2020-05-28 13:17:16] covid_docs has changed.
+TRACE [2020-05-28 13:17:16] NEWS.md file found, updating!
+TRACE [2020-05-28 13:19:06] NEWS.md file found, updating!
+TRACE [2020-05-28 13:19:06] Data has been updated and DataVersion string incremented automatically to 0.1.1
+TRACE [2020-05-28 13:19:06] Saving to data
+TRACE [2020-05-28 13:19:06] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 13:19:06] Done
+TRACE [2020-05-28 13:19:06] DataPackageR succeeded
+TRACE [2020-05-28 13:19:06] Building documentation
+TRACE [2020-05-28 13:19:07] Building package
+TRACE [2020-05-28 13:20:22] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:20:22] Processing data
+TRACE [2020-05-28 13:20:22] Reading yaml configuration
+TRACE [2020-05-28 13:20:22] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:20:22] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:28:55] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:28:55] Processing data
+TRACE [2020-05-28 13:28:55] Reading yaml configuration
+TRACE [2020-05-28 13:28:55] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:28:55] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:31:44] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:31:44] Processing data
+TRACE [2020-05-28 13:31:44] Reading yaml configuration
+TRACE [2020-05-28 13:31:44] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:31:44] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:32:22] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:32:22] Processing data
+TRACE [2020-05-28 13:32:22] Reading yaml configuration
+TRACE [2020-05-28 13:32:22] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:32:22] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:32:55] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:32:55] Processing data
+TRACE [2020-05-28 13:32:55] Reading yaml configuration
+TRACE [2020-05-28 13:32:55] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:32:55] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:33:15] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:33:15] Processing data
+TRACE [2020-05-28 13:33:15] Reading yaml configuration
+TRACE [2020-05-28 13:33:15] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:33:15] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:33:35] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:33:35] Processing data
+TRACE [2020-05-28 13:33:35] Reading yaml configuration
+TRACE [2020-05-28 13:33:35] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:33:35] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:39:06] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:39:06] Processing data
+TRACE [2020-05-28 13:39:06] Reading yaml configuration
+TRACE [2020-05-28 13:39:06] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:39:06] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:39:27] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:39:27] Processing data
+TRACE [2020-05-28 13:39:27] Reading yaml configuration
+TRACE [2020-05-28 13:39:27] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:39:27] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:46:31] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:46:31] NEWS.md file found, updating!
+WARN [2020-05-28 13:46:31] covid_docs has changed.
+WARN [2020-05-28 13:46:31] covid_docs has changed.
+WARN [2020-05-28 13:46:31] covid_docs has changed.
+WARN [2020-05-28 13:46:31] covid_docs has changed.
+WARN [2020-05-28 13:46:31] covid_docs has changed.
+WARN [2020-05-28 13:46:31] covid_docs has changed.
+TRACE [2020-05-28 13:46:31] NEWS.md file found, updating!
+TRACE [2020-05-28 13:46:57] NEWS.md file found, updating!
+TRACE [2020-05-28 13:46:57] Saving to data
+TRACE [2020-05-28 13:46:57] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 13:46:58] Done
+TRACE [2020-05-28 13:46:58] DataPackageR succeeded
+TRACE [2020-05-28 13:46:58] Building documentation
+TRACE [2020-05-28 13:46:58] Building package
+TRACE [2020-05-28 13:47:40] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:47:40] Processing data
+TRACE [2020-05-28 13:47:40] Reading yaml configuration
+TRACE [2020-05-28 13:47:40] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:47:40] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:49:45] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:49:45] Processing data
+TRACE [2020-05-28 13:49:45] Reading yaml configuration
+TRACE [2020-05-28 13:49:45] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:49:45] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:56:05] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:56:05] Processing data
+TRACE [2020-05-28 13:56:05] Reading yaml configuration
+TRACE [2020-05-28 13:56:05] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:56:05] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:57:14] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:57:14] Processing data
+TRACE [2020-05-28 13:57:14] Reading yaml configuration
+TRACE [2020-05-28 13:57:14] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:57:14] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 13:59:26] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 13:59:26] Processing data
+TRACE [2020-05-28 13:59:26] Reading yaml configuration
+TRACE [2020-05-28 13:59:26] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 13:59:26] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 14:00:29] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 14:00:29] Processing data
+TRACE [2020-05-28 14:00:29] Reading yaml configuration
+TRACE [2020-05-28 14:00:29] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 14:00:29] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 14:06:25] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 14:06:25] Processing data
+TRACE [2020-05-28 14:06:25] Reading yaml configuration
+TRACE [2020-05-28 14:06:25] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 14:06:25] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 14:21:09] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 14:21:09] NEWS.md file found, updating!
+WARN [2020-05-28 14:21:09] covid_docs has changed.
+WARN [2020-05-28 14:21:09] covid_docs has changed.
+WARN [2020-05-28 14:21:09] covid_docs has changed.
+WARN [2020-05-28 14:21:09] covid_docs has changed.
+WARN [2020-05-28 14:21:09] covid_docs has changed.
+WARN [2020-05-28 14:21:09] covid_docs has changed.
+TRACE [2020-05-28 14:21:09] NEWS.md file found, updating!
+TRACE [2020-05-28 14:36:04] NEWS.md file found, updating!
+TRACE [2020-05-28 14:36:04] Saving to data
+TRACE [2020-05-28 14:36:04] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 14:36:04] Done
+TRACE [2020-05-28 14:36:04] DataPackageR succeeded
+TRACE [2020-05-28 14:36:04] Building documentation
+TRACE [2020-05-28 14:36:04] Building package
+TRACE [2020-05-28 14:41:24] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 14:41:24] Processing data
+TRACE [2020-05-28 14:41:24] Reading yaml configuration
+TRACE [2020-05-28 14:41:24] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 14:41:24] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 15:10:43] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 15:10:44] NEWS.md file found, updating!
+WARN [2020-05-28 15:10:44] covid_docs has changed.
+WARN [2020-05-28 15:10:44] covid_docs has changed.
+WARN [2020-05-28 15:10:44] covid_docs has changed.
+WARN [2020-05-28 15:10:44] covid_docs has changed.
+WARN [2020-05-28 15:10:44] covid_docs has changed.
+WARN [2020-05-28 15:10:44] covid_docs has changed.
+TRACE [2020-05-28 15:10:44] NEWS.md file found, updating!
+TRACE [2020-05-28 15:15:01] NEWS.md file found, updating!
+TRACE [2020-05-28 15:15:01] Saving to data
+TRACE [2020-05-28 15:15:01] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 15:15:01] Done
+TRACE [2020-05-28 15:15:01] DataPackageR succeeded
+TRACE [2020-05-28 15:15:01] Building documentation
+TRACE [2020-05-28 15:15:02] Building package
+TRACE [2020-05-28 15:15:28] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 15:15:28] Processing data
+TRACE [2020-05-28 15:15:29] Reading yaml configuration
+TRACE [2020-05-28 15:15:29] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 15:15:29] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 15:16:15] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 15:16:16] NEWS.md file found, updating!
+WARN [2020-05-28 15:16:16] covid_docs has changed.
+WARN [2020-05-28 15:16:16] covid_docs has changed.
+WARN [2020-05-28 15:16:16] covid_docs has changed.
+TRACE [2020-05-28 15:16:16] NEWS.md file found, updating!
+TRACE [2020-05-28 15:16:30] NEWS.md file found, updating!
+TRACE [2020-05-28 15:16:30] Data has been updated and DataVersion string incremented automatically to 0.1.2
+TRACE [2020-05-28 15:16:30] Saving to data
+TRACE [2020-05-28 15:16:31] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 15:16:31] Done
+TRACE [2020-05-28 15:16:31] DataPackageR succeeded
+TRACE [2020-05-28 15:16:31] Building documentation
+TRACE [2020-05-28 15:16:31] Building package
+TRACE [2020-05-28 15:19:58] Logging to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 15:19:58] Processing data
+TRACE [2020-05-28 15:19:58] Reading yaml configuration
+TRACE [2020-05-28 15:19:58] Found /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 15:19:58] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 15:20:29] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 15:20:29] NEWS.md file found, updating!
+TRACE [2020-05-28 15:20:29] Processed data sets match existing data sets at version 0.1.2
+TRACE [2020-05-28 15:20:29] Saving to data
+TRACE [2020-05-28 15:20:30] Copied documentation to /Users/chris.knox/nzme/data-packages/nzhCovid19Docs/R/nzhCovid19Docs.R
+TRACE [2020-05-28 15:20:30] Done
+TRACE [2020-05-28 15:20:30] DataPackageR succeeded
+TRACE [2020-05-28 15:20:30] Building documentation
+TRACE [2020-05-28 15:20:30] Building package

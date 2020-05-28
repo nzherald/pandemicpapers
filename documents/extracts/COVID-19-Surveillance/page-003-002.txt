@@ -1,0 +1,49 @@
+IN CONFIDENCE
+surveillance information, but will complement other surveillance mechanisms in the
+medium term.
+Elements of surveillance currently in place
+6. The immediate surveillance activity for COVID-19 is based upon the following elements:
+
+a) Existing ILI surveillance conducted by ESR on behalf of the Ministry of Health, including
+sentinel practices, patient reports of symptoms to Flu Tracker, and reports of symptoms
+to HealthLine. This is currently operational and functioning as usual.
+
+b) The core communicable disease surveillance system, operated at the frontline by PHUs,
+which feed information on positive COVID-19 cases through to ESR and the Ministry of
+Health via the EpiSurv database. This is currently operational and functioning as usual,
+with efforts underway to ensure timely data entry, which is under some pressure arising
+from the high number of cases.
+
+c) Contact tracing data, which provides information on confirmed cases and their contacts,
+and how these emerge as clusters. This is being collected by the National Contract
+Tracing Centre in a newly-developed information system.
+
+d) Aregular survey, linked back to participants in the New Zealand Health Survey, has
+been developed and is in place for monitoring ongoing attitudes and mood relevant to
+COVID-19.
+
+e) ESR is conducting genetic surveillance of COVID-19 samples via whole genome
+sequencing in order to understand which of the eight known strains are important in New
+Zealand.
+
+Next Steps
+Short-term implementation for COVID-19 surveillance
+7. New COVID-19 surveillance mechanisms are being stood up rapidly.
+
+a) Anational dataset is being developed for COVID-19 lab tests to be able to access both
+positive and negative test results across New Zealand. Expected to be running by 20
+April 2020, this dataset would allow the Ministry of Health to link further valuable
+information about people being tested for COVID-19 symptoms. This will also allow
+epidemiologists at the Ministry of Health to calculate rates and trends of disease with
+clearer oversight at a local level, on its impact on key populations including Maori and
+Pacific people, and on its impact based on socioeconomic deprivation.
+
+b) Anational dataset is being developed for CBACs, to monitor for equitable health
+outcomes based on representativeness of the population. Where there is an indication
+that key populations, particularly Maori, are not being tested in sufficient volume to
+support accurate monitoring of COVID-19, DHBs will be asked to extend their efforts to
+test symptomatic people in those populations. It is expected that this database will be in
+operation by 10 April 2020.
+
+Page 3 of 5
+IN CONFIDENCE

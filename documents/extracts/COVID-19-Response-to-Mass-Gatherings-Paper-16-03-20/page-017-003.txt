@@ -1,0 +1,32 @@
+INCONFIDENCE
+Appendix 3 — Canada framework for determining whether a gathering should be cancelled due to the risk of COVID-19
+transmission
+Characteristics Risk considerations Implications [weight |
+Population Are persons attending the event coming If participants are expected from affected areas, the risk of importation is High
+attending the from regions where there is community higher. These travellers may be self-monitoring for symptoms of COVID-19 | importance
+event transmission of COVID-19 or from countries | for 14 days from their arrival in Canada, based on public health advice
+with unreliable surveillance of the disease? | provided upon entry to Canada.
+See affected areas list.
+Are persons attending the event members Healthcare workers may have greater risk of infection due to the possibility | Medium
+of a professional group that might have of occupational exposure. importance
+increased risk of infection?
+Are persons attending the event from Older adults, people with immune compromising conditions and chronic High
+demographic groups at greater risk of diseases appear to be at greater risk of severe disease, so consideration importance
+severe disease, such as older adults? should be given to protecting them from possible exposure to COVID-19
+cases. Communication about risk to these attendees should be
+emphasized.
+Are persons attending the event at greater | Young children may be at greater risk of amplifying disease transmissionso | Medium
+tisk of spreading the disease, such as consideration should be given to protecting them from possible exposure to | importance
+young children? COVID-19 cases. Reducing transmission among children indirectly
+protects the population and may therefore reduce the demand on thehealth
+care system.
+Are persons attending the event members If transmission occurs at the mass gathering, participants may be subject to | High
+of critical infrastructure roles, such as self-isolation or may become cases themselves. This could lead to critical | importance
+healthcare workers? infrastructure disruptions/absenteeism if the participants at the event
+represent critical services and industries.
+How many people are expected to attend The larger the number of participants, the greater the likelihood of a High
+the event? participant being a case of COVID-19. Large numbers of people may also__| importance
+create greater likelihood of crowding.
+17
+INCONFIDENCE
+8t605jj9dp 2020-04-20 12:37:53

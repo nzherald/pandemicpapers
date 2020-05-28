@@ -1,0 +1,7 @@
+configuration:
+  files:
+    extract_document_dump_text.Rmd:
+      enabled: yes
+  objects: covid_docs
+  render_root:
+    tmp: '746728'

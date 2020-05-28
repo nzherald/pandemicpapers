@@ -1,0 +1,56 @@
+IN CONFIDENCE
+Key insights from the COVID-19 Weekly Monitoring Report
+
+12. The current strategy is to eliminate the virus from New Zealand. The requires that we keep it
+out of the country with border restrictions and stamp it out wherever it occurs, minimise its
+spread and severity with systematic public health measures (testing, contact tracing, isolation
+and surveillance) supplemented by population-wide behaviour changes and social
+restrictions.
+
+COVID-19 cases and confidence in testing and sources of transmission
+
+13. New case numbers appear to have flattened out over the past week. The time taken for cases
+transmitted within New Zealand to double has slowed down. If there was uncontrolled spread
+we would expect to see a doubling approximately every three days.
+
+14. We have relatively few serious cases, and relatively low incidence of cases amongst the
+particularly vulnerable elderly population. Analysis suggests that 2-3 weeks ago, there was
+undetected community transmission, but we did not know how widespread this was.
+
+15. Our high number of tests (see page on testing, tracing and health system capacity) and low
+proportion of positive tests, together with the low number of hospital presentations,
+increasingly suggests that there is not widespread community transmission of the virus at this
+time in the areas where we have data, and that we have not had a large number of cases that
+have not been tested. However, the Ministry of Health is now undertaking targeted over-
+sampling in certain areas (both in known hotspots and areas that have tested fewest people)
+to add further assurance to our data on cases ahead of a decision on whether to extend or
+reduce Alert Level 4.
+
+16. There are a number of gaps in the data we have used to prepare the report. In particular, a
+significant number of cases have missing information and some others have been under
+investigation for a long time. This somewhat reduces our confidence in the data on cases of
+community transmission.
+
+Capacity and capability in the testing and contact tracing
+
+17. Our testing capacity is now over 6,000 symptomatic cases per day. As at 15 April, complete
+test stock on hand in labs is 71,693, equating to approximately 26 days’ supply at current (7
+day average) levels. We have moderate confidence in our testing regime. National testing
+rates and capacity are good, but some regions and populations may be somewhat under-
+represented. The average speed of the process needs to improve.
+
+18. Our contact tracing capacity has been sharply increased to around 1,000 contacts per day
+currently. The contact tracing centre is starting to see a reduction in the number of close
+contacts (now to 2-3 close contacts per person). This is likely due to the lockdown, which
+makes close contact tracing simpler. Additional pressures on capacity associated with greater
+personal movement at Level 3 (and in time, Level 2) will need to be estimated and planned
+for in order to provide assurance to move between Levels.
+
+19. In addition to capacity, timeliness measures are critical to understanding the performance of
+the testing and contact tracing systems. The Ministry of Health will very soon have data on
+the time between symptom onset and self-isolation, and symptom onset and a test result. This
+data will give us a much better insight into how effective our test-trace-isolate response will
+be at controlling any new community transmission or outbreaks.
+
+Page 4 of 7
+IN CONFIDENCE

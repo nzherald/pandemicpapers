@@ -1,0 +1,64 @@
+Annex Two: Process for exemptions in INZ and at border
+ee eee eee Eee NG A Doren
+Immigration processes to board and process an incoming traveller to New Zealand
+
+1. The current restrictions mean that those who are subject to the ban are not able to travel to
+New Zealand if they have been present in China or transited through China in the 14 days prior
+to travel. If people subject to the ban are boarding from a mainland China airport, the check in
+agent receives an automatic “Border Closed” response when attempting to check in.
+
+2. If people are boarding from another port outside of mainland China, the check in agent must
+ask if they have been in China within the previous 14 Days. If they respond “yes”, the agent
+must contact the Immigration Border Office (IBO) by telephone and, under current instructions,
+an immigration officer at IBO will deny uplift and that person cannot be checked in and
+boarded.
+
+3. The international system which generates automatic board/do not board directives to check in
+agents is not currently functionally capable of distinguishing by visa category or other
+characteristics (such as having been previously living in New Zealand prior to the restrictions
+being put in place). The current functionality is set to only distinguish between New Zealand
+citizens and residents, and all other visa holders. Individual, case-by-case, manual exceptions
+are able to be implemented now, but this is happening in only small numbers (e.g. the
+immediate family of NZ citizens and residents and Australians who are ordinarily resident in
+New Zealand and government-to-government requests for individuals such as diplomatic staff).
+
+4. Only a person with delegated authority from the Chief Executive of MBIE may issue a board/do
+not board directive.
+
+Immigration requirements to board and process incoming travellers if large scale
+
+exemptions are in place
+5. The only way to exempt large groups is to take the manual process to a much larger
+scale. The high level requirements and process would be as follows:
+¢ A\list of eligible travellers would need to be generated and provided to INZ. Before
+providing to INZ, this list would have been authorised by relevant the authorities, such as
+the Ministry of Health and in the case of students, the Ministry of Education in the case of
+students.
+
+¢ The traveller would be contacted and informed that they are eligible to travel.
+
+¢ The traveller would arrive at check in and agent would receive a “Border Closed” message
+upon check in. The traveller would provide their confirmation of their ability to travel and
+advising the agent to contact the IBO by telephone.
+
+¢ The IBO will check that the traveller is on the list that has been provided to INZ and either
+advise the agent to check in and board the traveller or not. The agent will generate a
+manual boarding pass to enable boarding.
+
+6. Our current thinking is that this could be operationalised as follows:
+
+« _ List from education providers is checked for validity of visas
+
+¢ Eligible students informed by INZ or education provider they are exempt (subject to
+conditions on visa still being met)
+
+¢ Expiring visa students are asked by INZ if they wish to seek a short term visa enabling
+them to travel and reapply onshore for a substantive new student visa (and informed
+when/if granted)
+
+¢ _INZ stand up exemption team
+
+¢ Team available to confirm exemption/override at check-in on 1:1 basis with check-in staff
+over the phone or by SITATEX
+
+Sensitive 8
