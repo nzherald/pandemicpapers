@@ -4,4 +4,4 @@ configuration:
       enabled: yes
   objects: covid_docs
   render_root:
-    tmp: '746728'
+    tmp: '145143'

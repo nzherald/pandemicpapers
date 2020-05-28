@@ -1,11 +1,11 @@
-#' nzhCovid19Docs
-#' A data package for nzhCovid19Docs.
+#' pandemicpapers
+#' A data package for pandemicpapers.
 #' @docType package
-#' @aliases nzhCovid19Docs-package
+#' @aliases pandemicpapers-package
 #' @title Package Title
-#' @name nzhCovid19Docs
+#' @name pandemicpapers
 #' @description A description of the data package
-#' @details Use \code{data(package='nzhCovid19Docs')$results[, 3]} to see a list of available data sets in this data package
+#' @details Use \code{data(package='pandemicpapers')$results[, 3]} to see a list of available data sets in this data package
 #'     and/or DataPackageR::load_all
 #' _datasets() to load them.
 #' @seealso
@@ -32,7 +32,7 @@ NULL
 #' }
 #' @source The data comes from________________________.
 #' @seealso
-#' \link{nzhCovid19Docs}
+#' \link{pandemicpapers}
 NULL
 
 

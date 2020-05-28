@@ -1,6 +1,6 @@
-# Covid-19 Proactive Release Document Dump Text
+# Pandemic Papers: Covid-19 Proactive Release Document Dump Text
 
-This makes the New Zealand Governments proactively released [Covid-19 document
+_Pandemic Papers_ makes the New Zealand Governments proactively released [Covid-19 document
 dump](https://covid19.govt.nz/resources/key-documents-and-legislation/proactive-release/) available as
 searchable plain text.
 
@@ -10,7 +10,7 @@ The goal of this project is to extract the the text from these documents and mak
 The text is made available as an R package, [csv](inst/extdata/covid_docs.csv), and
 [Excel](inst/extdata/covid_docs.xlsx) files.
 
-Although the primary application of the text extract is further software based exploration you can
+Although the primary usecase _Pandemic Papers_ supports is further software based exploration you can
 get a long way by just opening the excel file and using the search functionality. At a minimum this
 allows you to see if keywords of interest are in a certain documents and if they are what pages they
 are on.
@@ -19,8 +19,8 @@ To use the document dump in R
 
 ```r
 library(devtools)
-install_github("nzherald/nzhCovid19Docs")
-data("covid_docs", package = "nzhCovid19Docs")
+install_github("nzherald/pandemicpapers")
+data("covid_docs", package = "pandemicpapers")
 ```
 
 This will pull the full set of pdf documents and hide them in R cache somewhere so a better approach
@@ -32,7 +32,8 @@ email [Chris Knox](mailto:chris.knox@nzherald.co.nz)
 ## Articles
 
 If you want to get a sense of what is contained in these documents [Matt
-Nippert](https://twitter.com/MattNippert) has written 3 excellent (paywalled) pieces.
+Nippert](https://twitter.com/MattNippert) has written 3 excellent _Pandemic Papers_
+(paywalled) pieces.
 
 - [No time for a trial run](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12332156)
 - [Days from disaster](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12333986)

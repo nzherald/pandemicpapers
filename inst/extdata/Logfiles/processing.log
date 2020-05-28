@@ -254,3 +254,48 @@ TRACE [2020-05-28 15:20:30] Done
 TRACE [2020-05-28 15:20:30] DataPackageR succeeded
 TRACE [2020-05-28 15:20:30] Building documentation
 TRACE [2020-05-28 15:20:30] Building package
+TRACE [2020-05-28 16:28:53] Logging to /Users/chris.knox/nzme/data-packages/pandemicpapers/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 16:28:53] Processing data
+TRACE [2020-05-28 16:28:53] Reading yaml configuration
+TRACE [2020-05-28 16:28:53] Found /Users/chris.knox/nzme/data-packages/pandemicpapers/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 16:28:53] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/pandemicpapers/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 16:29:47] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 16:29:47] NEWS.md file found, updating!
+TRACE [2020-05-28 16:29:47] New DataVersion is less than old but data are unchanged
+TRACE [2020-05-28 16:29:47] Saving to data
+TRACE [2020-05-28 16:29:47] Copied documentation to /Users/chris.knox/nzme/data-packages/pandemicpapers/R/pandemicpapers.R
+TRACE [2020-05-28 16:29:47] Done
+TRACE [2020-05-28 16:29:47] DataPackageR succeeded
+TRACE [2020-05-28 16:29:47] Building documentation
+TRACE [2020-05-28 16:29:48] Building package
+TRACE [2020-05-28 16:35:04] Logging to /Users/chris.knox/nzme/data-packages/pandemicpapers/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 16:35:04] Processing data
+TRACE [2020-05-28 16:35:04] Reading yaml configuration
+TRACE [2020-05-28 16:35:04] Found /Users/chris.knox/nzme/data-packages/pandemicpapers/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 16:35:04] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/pandemicpapers/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 16:36:24] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 16:36:24] NEWS.md file found, updating!
+TRACE [2020-05-28 16:36:24] Processed data sets match existing data sets at version 0.1.2
+TRACE [2020-05-28 16:36:24] Saving to data
+TRACE [2020-05-28 16:36:25] Copied documentation to /Users/chris.knox/nzme/data-packages/pandemicpapers/R/pandemicpapers.R
+TRACE [2020-05-28 16:36:25] Done
+TRACE [2020-05-28 16:36:25] DataPackageR succeeded
+TRACE [2020-05-28 16:36:25] Building documentation
+TRACE [2020-05-28 16:36:25] Building package
+TRACE [2020-05-28 16:40:48] Logging to /Users/chris.knox/nzme/data-packages/pandemicpapers/inst/extdata/Logfiles/processing.log
+TRACE [2020-05-28 16:40:48] Processing data
+TRACE [2020-05-28 16:40:48] Reading yaml configuration
+TRACE [2020-05-28 16:40:48] Found /Users/chris.knox/nzme/data-packages/pandemicpapers/data-raw/extract_document_dump_text.Rmd
+TRACE [2020-05-28 16:40:48] Processing 1 of 1: /Users/chris.knox/nzme/data-packages/pandemicpapers/data-raw/extract_document_dump_text.Rmd
+
+TRACE [2020-05-28 16:41:37] 1 data set(s) created by extract_document_dump_text.Rmd
+TRACE [2020-05-28 16:41:37] NEWS.md file found, updating!
+TRACE [2020-05-28 16:41:37] New DataVersion is less than old but data are unchanged
+TRACE [2020-05-28 16:41:37] Saving to data
+TRACE [2020-05-28 16:41:38] Copied documentation to /Users/chris.knox/nzme/data-packages/pandemicpapers/R/pandemicpapers.R
+TRACE [2020-05-28 16:41:38] Done
+TRACE [2020-05-28 16:41:38] DataPackageR succeeded
+TRACE [2020-05-28 16:41:38] Building documentation
+TRACE [2020-05-28 16:41:38] Building package

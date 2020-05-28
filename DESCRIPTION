@@ -1,4 +1,4 @@
-Package: nzhCovid19Docs
+Package: pandemicpapers
 Title: Provides Covid-19 Proactive Release Documents as Text
 Version: 1.0
 Authors@R: 
