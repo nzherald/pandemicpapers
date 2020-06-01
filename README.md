@@ -31,8 +31,7 @@ email [Chris Knox](mailto:chris.knox@nzherald.co.nz)
 
 ## Articles
 
-If you want to get a sense of what is contained in these documents [Matt
-Nippert](https://twitter.com/MattNippert) has written 3 excellent _Pandemic Papers_
+If you want to get a sense of what is contained in these documents [Matt Nippert](https://twitter.com/MattNippert) has written 3 excellent _Pandemic Papers_
 (paywalled) pieces.
 
 - [No time for a trial run](https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12332156)
@@ -66,8 +65,7 @@ The `documents/originals` directory contains a copy of all the of released docum
 
 ## Copyright
 
-### Documents and extracted text - Crown Copyright [CC-BY-NC
-4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+### Documents and extracted text - Crown Copyright [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 The original pdf files, and the text extracted from them are owned by the Crown and are released under a Creative 
 Commons 4.0 Attribution Non-Commercial International Public Licence.
